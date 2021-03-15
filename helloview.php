@@ -4,10 +4,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Controller, Model dan View</title>
+	<title>Hello</title>
 </head>
 <body>
-    <h2><?php echo $teks; ?></h2>
-    <h3>Menggunakan Controllers, Model dan View</h3>
+    <h2>Hello world CI!</h2>
+    <h3>Menggunakan Controllers dan View</h3>
 </body>
 </html>
